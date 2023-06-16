@@ -1,0 +1,27 @@
+p{
+   color: black;
+   font-size:20px;
+   height: 200px;
+   padding: 2%;
+   margin: 2% auto;
+}
+body{ 
+   background-image: url('papel.jpg');
+   height:1366px; 
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+img.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1{
+   color:slategrey;
+   font-size: 40px;
+   text-align: center;
+}
+h1:hover{
+   color: gold;
+}
